@@ -1,5 +1,9 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+guid: a1563eb82d0a6184bae3d329af2c9130
+timeCreated: 1512465025
+=======
+<<<<<<< HEAD
 guid: 0c9c4b65128dd6641918ca6812c0a5bd
 timeCreated: 1512465123
 =======
@@ -15,6 +19,7 @@ guid: 56ad1a1fa26287b4a94c69488909bed9
 timeCreated: 1512464925
 >>>>>>> master
 >>>>>>> Stashed changes
+>>>>>>> master
 >>>>>>> master
 licenseType: Free
 DefaultImporter:
