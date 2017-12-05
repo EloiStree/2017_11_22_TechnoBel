@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 0}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -43,7 +43,7 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  m_GIWorkflowMode: 1
+  m_GIWorkflowMode: 0
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -271,47 +271,35 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -0.52
+      value: 0.643
       objectReference: {fileID: 0}
     - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -1.32
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 1.664
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
       propertyPath: m_LocalRotation.x
-      value: -0.09123499
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0.34192505
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
       propertyPath: m_LocalRotation.z
-      value: 0.23963279
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0.90406835
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 3.4182165
-      objectReference: {fileID: 0}
-    - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 5.781351
-      objectReference: {fileID: 0}
-    - target: {fileID: 4702155538616902, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.9999994
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f0b68e15c50b069479809f9cf3c41a8d, type: 2}
