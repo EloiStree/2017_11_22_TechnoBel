@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 65699668209227062}
   - component: {fileID: 23737323321504704}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Pascal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
