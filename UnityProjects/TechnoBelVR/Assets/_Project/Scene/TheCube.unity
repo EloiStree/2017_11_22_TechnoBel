@@ -108,6 +108,48 @@ NavMeshSettings:
     tileSize: 256
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &491651253
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4578486899689972, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578486899689972, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578486899689972, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578486899689972, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.09123499
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578486899689972, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.34192505
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578486899689972, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.23963279
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578486899689972, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.90406835
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578486899689972, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 3276ebbf0dbcfe741b5491225a8d5d4c, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &624011873
 GameObject:
   m_ObjectHideFlags: 0
@@ -262,6 +304,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< Updated upstream
+=======
 --- !u!1 &1885928705
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,10 +381,11 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1885928705}
-  m_LocalRotation: {x: -0.09123498, y: -0.34192502, z: 0.23963277, w: 0.9040683}
+  m_LocalRotation: {x: -0.09123499, y: -0.34192505, z: 0.23963279, w: 0.90406835}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: -0.063, y: -41.451, z: 29.715002}
+>>>>>>> Stashed changes
