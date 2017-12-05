@@ -3,8 +3,13 @@ fileFormatVersion: 2
 guid: 64a1c426118b355438cb50a488146f33
 timeCreated: 1512464917
 =======
+<<<<<<< HEAD
 guid: 0fa9ab192a21ee94e8ced707aea5aa54
 timeCreated: 1512464893
+=======
+guid: 56ad1a1fa26287b4a94c69488909bed9
+timeCreated: 1512464925
+>>>>>>> master
 >>>>>>> Stashed changes
 licenseType: Free
 DefaultImporter:
