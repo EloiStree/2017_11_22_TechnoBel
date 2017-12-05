@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:UnityProjects/TechnoBelVR/Assets/_Project/Team/Freddo/Freddo.prefab.meta
 guid: 3276ebbf0dbcfe741b5491225a8d5d4c
 timeCreated: 1512464685
+=======
+<<<<<<< Updated upstream
+guid: fc1a9eb500af9f149b8c61943cc41c4e
+timeCreated: 1512464917
+=======
+guid: acb605ff76080214baa75fd6df8df0fe
+timeCreated: 1512464893
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes:UnityProjects/TechnoBelVR/Assets/_Project/Team.meta~HEAD.meta
 licenseType: Free
 NativeFormatImporter:
   mainObjectFileID: 100100000
