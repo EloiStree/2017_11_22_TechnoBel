@@ -1,2 +1,1 @@
-# 2017_12_05_TechnoBel
-Hello Virtual reality for students of TechnoBel
+More information on the Wiki https://github.com/JamsCenter/2017_12_05_TechnoBel/wiki
